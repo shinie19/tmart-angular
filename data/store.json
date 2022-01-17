@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LEGO Friendship Tree House",
+      "description": "Friendship Tree House",
+      "category": "lego",
+      "price": 79.99,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt65d4d4cfc0b14ef6/41703.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi ZL02 Smart Watch For Man Women",
+      "description": "Xiaomi ZL02 Smart Watch For Man Women Waterproof Heart Rate Fitness Men's Sports Smartwatch For IPhone Android Huawei Samsung",
+      "category": "watch",
+      "price": 62.69,
+      "status": true,
+      "imageUrl": "https://vn-live-05.slatic.net/p/6d2331bec18f18da47b3d273ef0e862e.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 3,
+      "name": "Tommy Hilfiger",
+      "description": "Quartz Black Dial Stainless Steel Men's Watch",
+      "category": "watch",
+      "price": 139.29,
+      "status": true,
+      "imageUrl": "https://www.watchshopping.com/media/catalog/product/image/T/o/Tommy_Hilfiger-1791485.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Smart Watch Men Android 2021",
+      "description": "Xiaomi Smart Watch Men Android 2021 IP68 Waterproof Smartwatch Android ECG Smart Watch Man For Huawei Android Iphone IOS Phone",
+      "category": "watch",
+      "price": 89.69,
+      "status": true,
+      "imageUrl": "https://vn-live-05.slatic.net/p/8f819e6bfa81fdb7040743a6efb1563c.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 5,
+      "name": "Hugo Boss",
+      "description": "Ikon Chronograph Quartz Blue Dial Men's Watch",
+      "category": "watch",
+      "price": 169.29,
+      "status": true,
+      "imageUrl": "https://www.watchshopping.com/media/catalog/product/image/H/u/Hugo_Boss-HB1513340.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch Man Bluetooth Call",
+      "description": "Smart Watch Man Bluetooth Call Smartwatch Woman Sport Fitness Tracker For Huawei iOS Android Phone",
+      "category": "watch",
+      "price": 86.68,
+      "status": true,
+      "imageUrl": "https://vn-live-05.slatic.net/p/ae3ffcf5e89b77615ebff8a7f5a2def2.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi 2021 New Smart Watch Women's",
+      "description": "Xiaomi 2021 New Smart Watch Women's Watches Full Touch Smart Watch Man Ip68 Waterproof Sports Smartwatch for Huawei Samsung Oppo",
+      "category": "watch",
+      "price": 81.19,
+      "status": true,
+      "imageUrl": "https://vn-live-05.slatic.net/p/ffdc23fe5123369b76e9dddc81755047.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 8,
+      "name": "Timex® Standard Chronograph",
+      "description": "Timex® Standard Chronograph 41mm Fabric Strap Watch",
+      "category": "watch",
+      "price": 129.0,
+      "status": true,
+      "imageUrl": "https://images.timex.com/image/upload/q_auto,f_auto/if_!alt!_in_tags/e_sharpen:120,h_350,w_350,c_fill/if_else/e_sharpen:120,b_rgb:f2f3f3,h_350,w_350,c_lpad/if_end/Catalogs/timex-master-catalog/images/TW2T21200.png"
+    },
+    {
+      "id": 9,
+      "name": "Smartwatch Black Stainless Steel",
+      "description": "Gen 5E Smartwatch Black Stainless Steel",
+      "category": "watch",
+      "price": 189.29,
+      "status": true,
+      "imageUrl": "https://fossil.scene7.com/is/image/FossilPartners/FTW4056_main?$sfcc_fos_large$"
+    },
+    {
+      "id": 10,
+      "name": "Fossil Men's Gen 6 Touchscreen Smartwatch",
+      "description": "Fossil Men's Gen 6 Touchscreen Smartwatch with Speaker, Heart Rate, Blood Oxygen, GPS, Contactless Payments and Smartphone Notifications",
+      "category": "watch",
+      "price": 219.49,
+      "status": true,
+      "imageUrl": "https://cdn-amz.fadoglobal.io/images/I/71j0W3Y0YUL._SR476,476_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "MLB NY BAG B214 BLACK",
+      "description": "MLB NY MONOGRAM CROSSBODY BAG B214 BLACK",
+      "category": "bag",
+      "price": 139.29,
+      "status": true,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/32BGDC011-50Nb-L_1728x.jpg?v=1642012652"
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Smart Watch Men 2021",
+      "description": "Xiaomi Smart Watch Men 2021 Full Touch Screen 1.3IPS Smartwatch Men IP68 Bluetooth Call For Huawei Iphone IOS Android Phone",
+      "category": "watch",
+      "price": 78.86,
+      "status": true,
+      "imageUrl": "https://vn-live-05.slatic.net/p/65f68cb4d468661bdb5b53cec751359a.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 13,
+      "name": "MLB Monogram Rainbow Hoodie Bag",
+      "description": "Mlb Monogram Rainbow Hoodie Bag New York Yankees 32BGPC111-50L Black",
+      "category": "bag",
+      "price": 119.09,
+      "status": true,
+      "imageUrl": "https://cdn.vuahanghieu.com/unsafe/0x500/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2021/02/tui-mlb-monogram-rainbow-hoodie-bag-new-york-yankees-32bgpc111-50l-mau-den-6034859ee02a9-23022021113334.jpg"
+    },
+    {
+      "id": 14,
+      "name": "MLB Monogram Embo",
+      "description": "MLB Monogram Embo 3ACRS041N-50BKS Black",
+      "category": "bag",
+      "price": 159.29,
+      "status": true,
+      "imageUrl": "https://cdn.vuahanghieu.com/unsafe/0x500/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2022/01/tui-xach-mlb-monogram-embo-3acrs041n-50bks-mau-den-61d2700220781-03012022103946.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Christopher Nemeth bag",
+      "description": "Christopher Nemeth 2015 pre-owned Damier Graphite Amazon shoulder bag",
+      "category": "bag",
+      "price": 189.99,
+      "status": true,
+      "imageUrl": "https://cdn-images.farfetch-contents.com/15/28/82/47/15288247_26704597_1000.jpg"
+    },
+    {
+      "id": 16,
+      "name": "LEGO Lunar New Year Ice Festival",
+      "description": "LEGO Lunar New Year Ice Festival for Baby",
+      "category": "lego",
+      "price": 119.29,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltfd96e7d0e6e46fd5/80109_Prod.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 17,
+      "name": "LEGO Sonic the Hedgehog™ – Green Hill Zone",
+      "description": "Sonic the Hedgehog™ – Green Hill Zone",
+      "category": "lego",
+      "price": 69.96,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb6aeb406a3e28c72/21331.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 18,
+      "name": "LEGO Ford Mustang Shelby® GT500®",
+      "description": "Ford Mustang Shelby® GT500®",
+      "category": "lego",
+      "price": 59.92,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4bd79c45c7dcd055/42138.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+
+    {
+      "id": 19,
+      "name": "LEGO The City of Lanterns",
+      "description": "The City of Lanterns",
+      "category": "lego",
+      "price": 139.09,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt4562eacd8da303fc/80036.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 20,
+      "name": "LEGO BMW S 1000 RR",
+      "description": "BMW S 1000 RR",
+      "category": "lego",
+      "price": 229.92,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/blt8e4dfb117adeaf85/42130.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 21,
+      "name": "Gen 6 Smartwatch Brown Leather",
+      "description": "Gen 6 Smartwatch Brown Leather",
+      "category": "watch",
+      "price": 299.99,
+      "status": true,
+      "imageUrl": "https://fossil.scene7.com/is/image/FossilPartners/FTW4062_main?$sfcc_fos_large$"
+    },
+    {
+      "id": 22,
+      "name": "Gen 5E Smartwatch Brown Leather",
+      "description": "Gen 5E Smartwatch Brown Leather",
+      "category": "watch",
+      "price": 199.29,
+      "status": true,
+      "imageUrl": "https://fossil.scene7.com/is/image/FossilPartners/FTW4055_main?$sfcc_fos_large$"
+    },
+    {
+      "id": 23,
+      "name": "LEGO Iron Man Figure",
+      "description": "Iron Man Figure Lego",
+      "category": "lego",
+      "price": 39.96,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltd6f8047eaa1d3a3a/76206.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    },
+    {
+      "id": 24,
+      "name": "LEGO Lloyd’s Legendary Dragon",
+      "description": "Lloyd’s Legendary Dragon",
+      "category": "lego",
+      "price": 69.99,
+      "status": true,
+      "imageUrl": "https://www.lego.com/cdn/cs/set/assets/bltb74ee54294e20f37/71766.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+    }
+  ],
+  "post": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ]
+}
